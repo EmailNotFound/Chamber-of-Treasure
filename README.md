@@ -7,7 +7,7 @@ A simple puzzle game of third person viewpoint based on unreal 5 engine.
   light up the two lamps on wall, kick the iron ball onto the circle and pick up the key in the box which hidden behind the water wall, then open the door and done. 
 </details>
 ## Features Realized
-overlap hit events; objects with physics; Ending Ui pop up; 
+Overlap hit events; objects with physics; Ending Ui pop up; 
 ## Known Issues!!
 The water wall will change its position after first time called which is unwanted. 
 <details>
