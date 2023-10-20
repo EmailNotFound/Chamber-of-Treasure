@@ -22,7 +22,7 @@ The water wall will change its position after first time called which is unwante
 </details>
 
 <details>
-  <summary>/b Must Read!</summary>
+  <summary>Must Read!</summary>
   Uppon loading the project, the first level shown is the map of starter content which isn't really the main project, I don't know how to switch it somehow, so it requires manually switching to Content/Project/Map. 
   Sorry for the inconvenience. 
 </details>
