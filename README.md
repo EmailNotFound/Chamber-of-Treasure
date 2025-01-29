@@ -2,6 +2,10 @@
 ## Game description
 A simple puzzle game of third person viewpoint based on unreal 5 engine.
 
+![Screenshot 2025-01-29 000801](https://github.com/user-attachments/assets/4f4e2e8a-e474-450c-ae81-70e8f463087a)
+
+![Screenshot 2025-01-29 000945](https://github.com/user-attachments/assets/683033c4-515f-44b9-908b-2c6f47f5c1ec)
+
 
 ## SpeedRunning Guide
 <details>
