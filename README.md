@@ -1,4 +1,4 @@
-# GE3-Midterm
+# Chamber of Treasure
 ## Game description
 A simple puzzle game of third person viewpoint based on unreal 5 engine.
 
